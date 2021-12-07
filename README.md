@@ -1,1 +1,1 @@
-# edusample
+# KH정보교육 교육용
